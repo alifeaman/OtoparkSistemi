@@ -1,3 +1,6 @@
+// Öğrenci: Ali Efe Yaman
+// GitHub Repository: https://github.com/alifeaman/OtoparkSistemi
+
 using UnityEngine;
 
 public class OtoparkSistemi : MonoBehaviour
