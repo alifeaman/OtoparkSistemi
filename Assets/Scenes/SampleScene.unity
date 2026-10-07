@@ -492,7 +492,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 645ced71eb8b84324ba00f1bd898ce2a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::OtoparkSistemi
-  parkSuresi: 6
+  parkSuresi: 0
 --- !u!4 &1948526204
 Transform:
   m_ObjectHideFlags: 0

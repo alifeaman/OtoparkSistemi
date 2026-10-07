@@ -8,6 +8,10 @@ public class OtoparkSistemi : MonoBehaviour
     {
         switch (parkSuresi)
         {
+            case 0:
+                Debug.Log("Otoparkta kalınan süre: 0 Saat\nÖdenecek ücret: 0 TL (Ücretsiz çıkış)");
+                break;
+
             case 1:
                 Debug.Log("Otoparkta kalınan süre: 1 Saat\nÖdenecek ücret: 120 TL");
                 break;
